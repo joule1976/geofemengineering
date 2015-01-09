@@ -307,6 +307,28 @@ ul#nav li.active a { color: #11ABB0; }
 
 /* ================================================================== */
 
+/* d1. Lista Services
+
+/* ================================================================== */
+
+#lista_services {
+   /*background: url(../images/k-opacity-70.png);*/
+   padding-top: 0;
+   padding-bottom: 0;
+   font: 16px/24px montserrat-bold, sans-serif;
+   /*color: #4E565F;*/
+   text-align: center;
+   /*font-size: 16px;*/
+   line-height: 30px;
+   position: relative;
+   top: 6px;
+   left: 50px;
+}
+
+
+/* ================================================================== */
+
+
 /* e. Portfolio
 
 /* ================================================================== */
@@ -1607,3 +1629,6 @@ footer .social-links li:first-child { margin-left: 0; }
    }
 
 }
+
+
+
