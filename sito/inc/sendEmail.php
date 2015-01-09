@@ -3,8 +3,8 @@
 // Replace this with your own email address
 $siteOwnersEmail = 'geofemengineering@gmail.com';
 
-if(isset($_POST['submit']))
- {
+
+if($_POST) {
 
    $name = trim(stripslashes($_POST['contactName']));
    $email = trim(stripslashes($_POST['contactEmail']));
