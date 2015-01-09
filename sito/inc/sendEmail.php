@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'info@geofemengineering.it';
+$siteOwnersEmail = 'geofemengineering@gmail.com';
 
 
 if($_POST) {
